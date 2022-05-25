@@ -1,0 +1,31 @@
+
+/* Bolognese start*/
+img {
+    height:auto;
+    width: 600px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+    text-align:left;
+}
+
+.shape {
+    border: 3px solid #7d7d87;
+    width: 100%;
+    max-width: 600px;
+    padding: o 1em;
+    margin :0 auto;
+}
+
+.align {
+    text-align: center;
+}
+
+
+
+/* Bolognese end*/

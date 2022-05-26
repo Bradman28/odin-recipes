@@ -3,15 +3,17 @@
     text-align:center;
 }
 
+.color {
+    color: rgb(106, 32, 32)
+}
 
+.background {
+    background-color: rgb(216, 106, 106)
+}
 
-
-
-
-
-
-
-
+.line li { 
+    display: inline;
+}
 
 
 /* Bolognese start*/
@@ -37,9 +39,7 @@ ol {
     margin :0 auto;
 }
 
-.align {
-    text-align: center;
-}
+
 
 
 
